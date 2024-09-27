@@ -20,6 +20,7 @@ def quicksort(l, r, nums):
         quicksort(l, pi-1, nums)  # Recursively sorting the left values
         quicksort(pi+1, r, nums)  # Recursively sorting the right values
     return nums
+# Don't believe everything you think.
  
  
 example = [2, 5, 6, 1, 4, 6, 2, 4, 7, 8]

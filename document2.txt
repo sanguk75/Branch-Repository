@@ -110,3 +110,5 @@ int main()
 	printArray(arr, arr_size);
 	return 0;
 }
+
+//Don't believe everything you think.
